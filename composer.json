@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.13",
+        "php-ffmpeg/php-ffmpeg": "^1.1"
+    }
+}
